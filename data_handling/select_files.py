@@ -1,6 +1,7 @@
 # Description: This script copies a list of files from a source folder to a sample folder
 """
-doc string here
+You have a folder containing all the files, and from that, you want to select specific files as samples and save them in a separate folder. 
+You also have a list specifying which files should be used and saved in the sample folder.
 """
 
 import os
