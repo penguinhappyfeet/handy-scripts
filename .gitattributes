@@ -1,1 +1,2 @@
 *.praat linguist-vendored
+*.praat linguist-detectable=true
